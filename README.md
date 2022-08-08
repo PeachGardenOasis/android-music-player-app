@@ -1,6 +1,10 @@
 # comp3059_capstone
 
-![text](https://i.imgur.com/ldVXlDq.png)
+![text](https://i.imgur.com/jJlcljo.png)
+
+![text](https://i.imgur.com/xBXB3NV.png)
+
+![text](https://i.imgur.com/fQHlhJa.png)
 
 Repository for Capstone Project
 
